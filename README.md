@@ -5,9 +5,11 @@
 
 All source code can be found under [this repo](https://github.com/learn-co-students/nyc-web-042219).
 
-| **Module** | **Topic**                  | **Video**                              | **Code**                         |
-| ---------- | -------------------------- | -------------------------------------  | ----------------------------     |
-| 1          |          |                |         |
+#Module 1
+
+| **Topic**                  | **Video**                              | **Code**                         |
+| -------------------------- | -------------------------------------  | ----------------------------     |
+| 1. Hashketball Review      |  [Video](https://www.youtube.com/watch?v=ryZEttt80HE&feature=youtu.be)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/01-hashketball-review)   |
 
 
 
