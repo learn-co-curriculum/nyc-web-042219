@@ -5,7 +5,7 @@
 
 All source code can be found under [this repo](https://github.com/learn-co-students/nyc-web-042219).
 
-#Module 1
+# Module 1
 
 | **Topic**                  | **Video**                              | **Code**                         |
 | -------------------------- | -------------------------------------  | ----------------------------     |
