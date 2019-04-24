@@ -11,6 +11,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | -------------------------- | -------------------------------------  | ----------------------------     |
 | 1. Hashketball Review      |  [Video](https://www.youtube.com/watch?v=ryZEttt80HE&feature=youtu.be)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/01-hashketball-review)   |
 | 2. Object Orientation | [Video](https://www.youtube.com/watch?v=peEedFFGgNM&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/02-intro-to-oo) |
+| 3. Object Relationships: Has Many and Belongs To | [Video](https://www.youtube.com/watch?v=1PW3OzrnXWs&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/03-oo-relations-one-to-many) |
 
 
 
