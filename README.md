@@ -5,6 +5,8 @@
 
 All source code can be found under [this repo](https://github.com/learn-co-students/nyc-web-students-042219).
 
+[**Collaborating With Git Reading**](https://github.com/learn-co-students/collaborating-with-git-crash-course)
+
 # Module 1
 
 | **Topic**                  | **Video**                              | **Code**                         |
