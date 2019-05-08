@@ -25,3 +25,4 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 10. ActiveRecord Associations & Migrations | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/10-activerecord) | [Video](https://www.youtube.com/watch?v=JT87HE8r7Zs&feature=youtu.be) |
 | 11. Hashes and the Internet | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/11-hashes-and-the-internet) | [Video](https://www.youtube.com/watch?v=656xb8_RCN8&feature=youtu.be) |
 | 12. Gitignore and Hiding API Keys | _no code_ | [~10 minute Video](https://www.youtube.com/watch?v=5MEpPVREUjE&feature=youtu.be) |
+| 13. Intro to TDD | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/12-intro-to-tdd) | [Video](https://www.youtube.com/watch?v=6DGB_0VGsgg&feature=youtu.be) |
