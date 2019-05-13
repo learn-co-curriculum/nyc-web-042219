@@ -26,3 +26,9 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 11. Hashes and the Internet | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/11-hashes-and-the-internet) | [Video](https://www.youtube.com/watch?v=656xb8_RCN8&feature=youtu.be) |
 | 12. Gitignore and Hiding API Keys | _no code_ | [~10 minute Video](https://www.youtube.com/watch?v=5MEpPVREUjE&feature=youtu.be) |
 | 13. Intro to TDD | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/12-intro-to-tdd) | [Video](https://www.youtube.com/watch?v=6DGB_0VGsgg&feature=youtu.be) |
+
+# Module 2
+
+| **Topic**                  | **Video**                              | **Code**                         |
+| -------------------------- | -------------------------------------  | ----------------------------     |
+| 1. Intro to the Internet      |  [Video](https://youtu.be/xZTzg7v1jwk)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/13-rack-intro)   |
