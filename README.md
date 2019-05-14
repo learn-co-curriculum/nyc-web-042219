@@ -34,3 +34,4 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 1. Intro to the Internet      |  [Video](https://youtu.be/xZTzg7v1jwk)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/13-rack-intro)   |
 | 2. Sinatra MVC     |  [Video](https://youtu.be/AUKtc6Vmvy4)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/14-sinatra-mvc)   |
 | 3. Sinatra Forms     |  [Video](https://youtu.be/dqiG08RgBl4)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/15-sinatra-forms/rappers)   |
+| 4. Sinatra Forms Review     |  [Video](https://youtu.be/aIjl13ZIK88)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/16-sinatra-forms-review/rappers)   |
