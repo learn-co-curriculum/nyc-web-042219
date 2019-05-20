@@ -38,3 +38,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 5. Sinatra Forms & Associations     |  [Video](https://youtu.be/gs7rdKFPl5Q)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/17-sinatra-forms-associations/rappers)   |
 | 6. Intro to Rails     |  [Video](https://youtu.be/UWx_0K9UFMc)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/18-rails-intro/rapper-app)   |
 | 7. Rails Forms     |  [Video](https://youtu.be/vm4zEc-ck8g)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/19-rails-forms/rapper-app)   |
+| 8. Rails Associations     |  [Video](https://youtu.be/J8OLn6pDbDk)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/20-rails-associations/rapper-app)   |
+| 9. Rails Validations     |  [Video](https://youtu.be/h9JDtsbjYdY)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/20-rails-associations/rapper-app)   |
