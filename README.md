@@ -40,3 +40,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 7. Rails Forms     |  [Video](https://youtu.be/vm4zEc-ck8g)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/19-rails-forms/rapper-app)   |
 | 8. Rails Associations     |  [Video](https://youtu.be/J8OLn6pDbDk)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/20-rails-associations/rapper-app)   |
 | 9. Rails Validations     |  [Video](https://youtu.be/h9JDtsbjYdY)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/20-rails-associations/rapper-app)   |
+| 10. Rails Sessions && Cookies 🍪     |  [Video](https://youtu.be/VpYPbqfmADk)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/21-rails-session)   |
+| 11. Rails Auth 🔐     |  [Video](https://youtu.be/Zhf02SpYy-4)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/22-rails-auth)   |
