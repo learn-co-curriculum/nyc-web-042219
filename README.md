@@ -42,3 +42,11 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 9. Rails Validations     |  [Video](https://youtu.be/h9JDtsbjYdY)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/20-rails-associations/rapper-app)   |
 | 10. Rails Sessions && Cookies 🍪     |  [Video](https://youtu.be/VpYPbqfmADk)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/21-rails-session)   |
 | 11. Rails Auth 🔐     |  [Video](https://youtu.be/Zhf02SpYy-4)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/22-rails-auth)   |
+
+
+# Module 3 🤠
+
+| **Topic**                  | **Video**                              | **Code**                         |
+| -------------------------- | -------------------------------------  | ----------------------------     |
+| 1. Intro to JS     |  [Video](https://youtu.be/aYTKb36Q97c)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/23-intro-to-js)   |
+| 2. First class Functions 🏛     |  [Video](https://youtu.be/7TnIWlEybEI)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/24-scopes-closures-callbacks)   |
