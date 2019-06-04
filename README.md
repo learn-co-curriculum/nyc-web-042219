@@ -50,3 +50,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | -------------------------- | -------------------------------------  | ----------------------------     |
 | 1. Intro to JS     |  [Video](https://youtu.be/aYTKb36Q97c)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/23-intro-to-js)   |
 | 2. First class Functions 🏛     |  [Video](https://youtu.be/7TnIWlEybEI)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/24-scopes-closures-callbacks)   |
+| 3. Intro to DOM 🌲    |  [Video](https://youtu.be/jt0FZPrHJTA)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/25-DOM-intro)   |
+| 4. Intro to Events ™️     |  [Video](https://youtu.be/QNtro9mrOFE)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/26-intro-to-events)   |
