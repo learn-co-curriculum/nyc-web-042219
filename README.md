@@ -52,3 +52,4 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 2. First class Functions 🏛     |  [Video](https://youtu.be/7TnIWlEybEI)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/24-scopes-closures-callbacks)   |
 | 3. Intro to DOM 🌲    |  [Video](https://youtu.be/jt0FZPrHJTA)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/25-DOM-intro)   |
 | 4. Intro to Events ™️     |  [Video](https://youtu.be/QNtro9mrOFE)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/26-intro-to-events)   |
+| 5. Task Lister Lite™️ Review | [Video](https://youtu.be/mqTbcSZGBLU) | [Lecture Code](https://github.com/learn-co-students/nyc-web-students-042219/commit/0108d41148edfdac31579703d48b4c90c908cda0) / [With Sort!](https://github.com/learn-co-students/nyc-web-students-042219/commit/5137b39c873181312ed308bc7c3cbd233b210353) | 
