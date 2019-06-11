@@ -56,4 +56,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 6. Intro to Async 🐶🐕 | [Video](https://youtu.be/M-nFOJ877ts) | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/28-intro-to-AJAX) |
 | 7. Rails API 🦍 | [Video](https://youtu.be/3V2zhGoQUks) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/28-rails-api) | 
 | 8. Javascript CRUD Review | [Video](https://youtu.be/c836D2NDbSo) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/29-js-crud-review) |
+| 9. Bookliker Review 📚 | [Video](https://youtu.be/Eaoqy5vpHDo) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/30-bookliker-review/bookliker-practice-challenge) [with Adapter](https://github.com/learn-co-students/nyc-web-students-042219/blob/master/30-bookliker-review/bookliker-practice-challenge/js/index_with_bonus.js) |
 
