@@ -55,4 +55,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 5. Task Lister Lite™️ Review | [Video](https://youtu.be/mqTbcSZGBLU) | [Lecture Code](https://github.com/learn-co-students/nyc-web-students-042219/commit/0108d41148edfdac31579703d48b4c90c908cda0) / [With Sort!](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/27-js-task-lister-review) | 
 | 6. Intro to Async 🐶🐕 | [Video](https://youtu.be/M-nFOJ877ts) | [Code](https://github.com/learn-co-students/nyc-web-students-040119/tree/master/28-intro-to-AJAX) |
 | 7. Rails API 🦍 | [Video](https://youtu.be/3V2zhGoQUks) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/28-rails-api) | 
+| 8. Javascript CRUD Review | [Video] (https://youtu.be/c836D2NDbSo) | [Code] ((https://github.com/learn-co-students/nyc-web-students-042219/tree/master/29-js-crud-review) |
 
