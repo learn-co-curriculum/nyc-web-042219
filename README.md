@@ -58,3 +58,4 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 8. Javascript CRUD Review | [Video](https://youtu.be/c836D2NDbSo) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/29-js-crud-review) |
 | 9. Bookliker Review 📚 | [Video](https://youtu.be/Eaoqy5vpHDo) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/30-bookliker-review/bookliker-practice-challenge) / [Code with Adapter](https://github.com/learn-co-students/nyc-web-students-042219/blob/master/30-bookliker-review/bookliker-practice-challenge/js/index_with_bonus.js) |
 | 10. OO-Javascript | [Video](https://youtu.be/M9zY-5s7-SA) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/31-OO-this) |
+| 11. Function Context | [Video](https://www.youtube.com/watch?v=9g6XnGGFhXU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/32-function-context) |
