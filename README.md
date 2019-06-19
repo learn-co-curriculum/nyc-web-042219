@@ -60,3 +60,4 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 10. OO-Javascript | [Video](https://youtu.be/M9zY-5s7-SA) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/31-OO-this) |
 | 11. Function Context | [Video](https://www.youtube.com/watch?v=9g6XnGGFhXU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/32-function-context) |
 | 12. Big ⭕️ Notation | [Video](https://youtu.be/NAH7D-ru6NY) | Code TK | 
+| 13. ES6 Syntax ⚛️ | [Video](https://youtu.be/AbbdE0paJjo) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/35-es6-syntax) |
