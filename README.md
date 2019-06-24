@@ -62,3 +62,9 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 12. Big ⭕️ Notation | [Video](https://youtu.be/NAH7D-ru6NY) | Code TK | 
 | 13. ES6 Syntax ⚛️ | [Video](https://youtu.be/AbbdE0paJjo) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/35-es6-syntax) |
 | 14. Deploying - Heroku/GitHub Pages/Netlify | [Video](https://youtu.be/1OMJTZoso3E) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/36-deploying) |
+
+# Module 4 ⚗️
+
+| **Topic**                  | **Video**                              | **Code**                         |
+| -------------------------- | -------------------------------------  | ----------------------------     |
+| 1. Intro to React     |  [Video](https://youtu.be/25orjCHTtpQ)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/37-intro-to-react)   |
