@@ -68,5 +68,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | **Topic**                  | **Video**                              | **Code**                         |
 | -------------------------- | -------------------------------------  | ----------------------------     |
 | 1. Intro to React     |  [Video](https://youtu.be/25orjCHTtpQ)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/37-intro-to-react)   |
-| 1. JSX and Props     |  [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/38-jsx-and-props
-)   |
+| 2. JSX and Props     |  [Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/38-jsx-and-props)   |
+| 3. State and Events     |  [Video 1](https://youtu.be/9PF_f09CjQc)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/39-state-and-events)   |
