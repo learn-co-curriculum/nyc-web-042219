@@ -59,7 +59,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 9. Bookliker Review 📚 | [Video](https://youtu.be/Eaoqy5vpHDo) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/30-bookliker-review/bookliker-practice-challenge) / [Code with Adapter](https://github.com/learn-co-students/nyc-web-students-042219/blob/master/30-bookliker-review/bookliker-practice-challenge/js/index_with_bonus.js) |
 | 10. OO-Javascript | [Video](https://youtu.be/M9zY-5s7-SA) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/31-OO-this) |
 | 11. Function Context | [Video](https://www.youtube.com/watch?v=9g6XnGGFhXU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/32-function-context) |
-| 12. Big ⭕️ Notation | [Video](https://youtu.be/NAH7D-ru6NY) | Code TK | 
+| 12. Big ⭕️ Notation | [Video](https://youtu.be/NAH7D-ru6NY) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/40-big-o-notation) | 
 | 13. ES6 Syntax ⚛️ | [Video](https://youtu.be/AbbdE0paJjo) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/35-es6-syntax) |
 | 14. CSS 🦅 | [Video](https://www.youtube.com/watch?v=4bVY1kPPoGc) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/41-css-basics) |
 | 15. Deploying - Heroku/GitHub Pages/Netlify | [Video](https://youtu.be/1OMJTZoso3E) | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/36-deploying) |
