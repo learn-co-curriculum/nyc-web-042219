@@ -74,4 +74,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 4. Controlled Forms    |  [Video](https://youtu.be/IKG_S15dh70)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/42-controlled-forms)   |
 | 5. Hogwarts Review    |  [Video](https://youtu.be/sv8sD9NFRVs)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/43-hogwarts-review/hogwarts-nyc-web-career-042219)   |
 | 6. Component Lifecycle    |  [Theory](https://www.youtube.com/watch?v=D5wwB7LvJrQ) / [Practical](https://youtu.be/qDTmcg-Ko80)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/44-component-lifecycle)   |
+| 7. React: Tips & Best Practices    |  [Video](https://youtu.be/Y-SlswnZ-xo)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/45-react-best-practices)   |
 
