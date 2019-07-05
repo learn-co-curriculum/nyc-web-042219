@@ -9,7 +9,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 
 [**Collaborating With Git Reading**](https://github.com/learn-co-students/collaborating-with-git-crash-course)
 
-# Module 1
+# Module 1 💻
 
 | **Topic**                  | **Video**                              | **Code**                         |
 | -------------------------- | -------------------------------------  | ----------------------------     |
@@ -27,7 +27,7 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 12. Gitignore and Hiding API Keys | _no code_ | [~10 minute Video](https://www.youtube.com/watch?v=5MEpPVREUjE&feature=youtu.be) |
 | 13. Intro to TDD | [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/12-intro-to-tdd) | [Video](https://www.youtube.com/watch?v=6DGB_0VGsgg&feature=youtu.be) |
 
-# Module 2
+# Module 2 🦁
 
 | **Topic**                  | **Video**                              | **Code**                         |
 | -------------------------- | -------------------------------------  | ----------------------------     |
