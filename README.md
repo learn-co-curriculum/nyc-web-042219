@@ -76,5 +76,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 6. Component Lifecycle    |  [Theory](https://www.youtube.com/watch?v=D5wwB7LvJrQ) / [Practical](https://youtu.be/qDTmcg-Ko80)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/44-component-lifecycle)   |
 | 7. React: Tips & Best Practices    |  [Video](https://youtu.be/Y-SlswnZ-xo)  |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/45-react-best-practices)   |
 | 8. React: Sushi Saga Review    |  [Video](https://youtu.be/W8JLwvqT3jE) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/46-react-mock-challenge-review)   |
-| 9. React Router    |  [Video pt 1](https://youtu.be/BipwlHlqKVA) [Video pt 2](https://youtu.be/Y0G4r5Equdo) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/47-react-router)   |
+| 9. React Router    |  [Video](https://www.youtube.com/watch?v=XTA2vO_hVEU) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/47-react-router)   |
 | 10. React Under the Hood    |  [Video](https://youtu.be/y58RDkT-81E) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/48-react-under-the-hood)   |
