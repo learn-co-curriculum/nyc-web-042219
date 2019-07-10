@@ -79,4 +79,5 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 9. React Router    |  [Video](https://www.youtube.com/watch?v=XTA2vO_hVEU) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/47-react-router)   |
 | 10. React Under the Hood    |  [Video](https://youtu.be/y58RDkT-81E) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/48-react-under-the-hood)   |
 | 11. Higher Order Components    |  [Video](https://youtu.be/-6eYAivWyIg) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/49-higher-order-components)   |
+| 12. Predux    |  [Video](https://youtu.be/B7zooWAGJiA) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/50-predux)   |
 
