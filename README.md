@@ -83,3 +83,4 @@ All source code can be found under [this repo](https://github.com/learn-co-stude
 | 13. Intro to Redux / React Redux    |  [Video](https://youtu.be/qGTSdnexcy8) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/51-intro-to-redux)   |
 | 14. Implementing Redux    |  [Video](https://youtu.be/i0kfphd8xjg) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/52-react-redux)   |
 | Fullstack Auth | [Code](https://github.com/learn-co-students/dumbo-web-040119/tree/master/42-fullstack-auth) | [Video 1](https://youtu.be/C0eC4cX-3WM) / [Video 2](https://youtu.be/JSjIJNa32iw) |
+| 15. Combined Reducers    |  [Video](https://youtu.be/E6wkL4jF5rA) |  [Code](https://github.com/learn-co-students/nyc-web-students-042219/tree/master/53-combined-reducers)   |
